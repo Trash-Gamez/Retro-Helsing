@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 92e2b03933b2c0044b5fc955ddd3f9ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6324354158728904177
+    second: Gun anim_shot_Sheet_0
+  - first:
+      213: -1929187692899457016
+    second: Gun anim_shot_Sheet_1
+  - first:
+      213: 5980248178384027774
+    second: Gun anim_shot_Sheet_2
+  - first:
+      213: 8507215747321424229
+    second: Gun anim_shot_Sheet_3
+  - first:
+      213: -4774946368072995899
+    second: Gun anim_shot_Sheet_4
+  - first:
+      213: -3025852257205953537
+    second: Gun anim_shot_Sheet_5
+  - first:
+      213: 5864287632619963401
+    second: Gun anim_shot_Sheet_6
+  - first:
+      213: -1851714794626462101
+    second: Gun anim_shot_Sheet_7
+  - first:
+      213: -4074259665266538021
+    second: Gun anim_shot_Sheet_8
+  - first:
+      213: 5970463540184812117
+    second: Gun anim_shot_Sheet_9
+  - first:
+      213: -1674229950897786446
+    second: Gun anim_shot_Sheet_10
+  - first:
+      213: -3069061355421970927
+    second: Gun anim_shot_Sheet_11
+  - first:
+      213: 5746322412541076337
+    second: Gun anim_shot_Sheet_12
+  - first:
+      213: -5918373180437031293
+    second: Gun anim_shot_Sheet_13
+  - first:
+      213: 6408440598318279735
+    second: Gun anim_shot_Sheet_14
+  - first:
+      213: -5875397138054611899
+    second: Gun anim_shot_Sheet_15
+  - first:
+      213: 3229127984181507649
+    second: Gun anim_shot_Sheet_16
+  - first:
+      213: 2948454471590742412
+    second: Gun anim_shot_Sheet_17
+  - first:
+      213: 5979322758999236201
+    second: Gun anim_shot_Sheet_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 270
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02033786616b38a0800000000000000
+      internalID: -6324354158728904177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 301
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8082cabb3062a35e0800000000000000
+      internalID: -1929187692899457016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 43
+        width: 236
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70c145980c1ef250800000000000000
+      internalID: 5980248178384027774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 202
+        width: 164
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569e3b626a3bf0670800000000000000
+      internalID: 8507215747321424229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 308
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cba775b39bfbbdb0800000000000000
+      internalID: -4774946368072995899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 207
+        width: 172
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbdc6a57630206d0800000000000000
+      internalID: -3025852257205953537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 300
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90487031882226150800000000000000
+      internalID: 5864287632619963401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 261
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e44f084336d46e0800000000000000
+      internalID: -1851714794626462101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 269
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd90619bb625577c0800000000000000
+      internalID: -4074259665266538021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 281
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a0329f4f85bd250800000000000000
+      internalID: 5970463540184812117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 266
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1fa68eab0f3c8e0800000000000000
+      internalID: -1674229950897786446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 250
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ec13435f08865d0800000000000000
+      internalID: -3069061355421970927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 226
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1736064f9c90fbf40800000000000000
+      internalID: 5746322412541076337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 36
+        width: 109
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3861ad303f6bddda0800000000000000
+      internalID: -5918373180437031293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 216
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ce3f255ca5fe850800000000000000
+      internalID: 6408440598318279735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 48
+        width: 160
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c78ef9e65667ea0800000000000000
+      internalID: -5875397138054611899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 32
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146796ffaca20dc20800000000000000
+      internalID: 3229127984181507649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 45
+        width: 160
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89049768b30be820800000000000000
+      internalID: 2948454471590742412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_shot_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 45
+        width: 160
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ede879e52daf250800000000000000
+      internalID: 5979322758999236201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gun anim_shot_Sheet_0: -6324354158728904177
+      Gun anim_shot_Sheet_1: -1929187692899457016
+      Gun anim_shot_Sheet_10: -1674229950897786446
+      Gun anim_shot_Sheet_11: -3069061355421970927
+      Gun anim_shot_Sheet_12: 5746322412541076337
+      Gun anim_shot_Sheet_13: -5918373180437031293
+      Gun anim_shot_Sheet_14: 6408440598318279735
+      Gun anim_shot_Sheet_15: -5875397138054611899
+      Gun anim_shot_Sheet_16: 3229127984181507649
+      Gun anim_shot_Sheet_17: 2948454471590742412
+      Gun anim_shot_Sheet_18: 5979322758999236201
+      Gun anim_shot_Sheet_2: 5980248178384027774
+      Gun anim_shot_Sheet_3: 8507215747321424229
+      Gun anim_shot_Sheet_4: -4774946368072995899
+      Gun anim_shot_Sheet_5: -3025852257205953537
+      Gun anim_shot_Sheet_6: 5864287632619963401
+      Gun anim_shot_Sheet_7: -1851714794626462101
+      Gun anim_shot_Sheet_8: -4074259665266538021
+      Gun anim_shot_Sheet_9: 5970463540184812117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

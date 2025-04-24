@@ -1,64 +1,37 @@
 fileFormatVersion: 2
-guid: 92e2b03933b2c0044b5fc955ddd3f9ba
+guid: 2354cacbb977925488a200e15d76dad5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6324354158728904177
-    second: Gun anim_shot_Sheet_0
+      213: -3271459031523814615
+    second: Gun anim_reload_Sheet_HD_0
   - first:
-      213: -1929187692899457016
-    second: Gun anim_shot_Sheet_1
+      213: 7822582036056803123
+    second: Gun anim_reload_Sheet_HD_1
   - first:
-      213: 5980248178384027774
-    second: Gun anim_shot_Sheet_2
+      213: -1571347311578041437
+    second: Gun anim_reload_Sheet_HD_2
   - first:
-      213: 8507215747321424229
-    second: Gun anim_shot_Sheet_3
+      213: -1142454344677573161
+    second: Gun anim_reload_Sheet_HD_3
   - first:
-      213: -4774946368072995899
-    second: Gun anim_shot_Sheet_4
+      213: -2598604150525522470
+    second: Gun anim_reload_Sheet_HD_4
   - first:
-      213: -3025852257205953537
-    second: Gun anim_shot_Sheet_5
+      213: 2337059235629855155
+    second: Gun anim_reload_Sheet_HD_5
   - first:
-      213: 5864287632619963401
-    second: Gun anim_shot_Sheet_6
+      213: 4908680339313437588
+    second: Gun anim_reload_Sheet_HD_6
   - first:
-      213: -1851714794626462101
-    second: Gun anim_shot_Sheet_7
+      213: 1266534118334285390
+    second: Gun anim_reload_Sheet_HD_7
   - first:
-      213: -4074259665266538021
-    second: Gun anim_shot_Sheet_8
+      213: 7124243301375244479
+    second: Gun anim_reload_Sheet_HD_8
   - first:
-      213: 5970463540184812117
-    second: Gun anim_shot_Sheet_9
-  - first:
-      213: -1674229950897786446
-    second: Gun anim_shot_Sheet_10
-  - first:
-      213: -3069061355421970927
-    second: Gun anim_shot_Sheet_11
-  - first:
-      213: 5746322412541076337
-    second: Gun anim_shot_Sheet_12
-  - first:
-      213: -5918373180437031293
-    second: Gun anim_shot_Sheet_13
-  - first:
-      213: 6408440598318279735
-    second: Gun anim_shot_Sheet_14
-  - first:
-      213: -5875397138054611899
-    second: Gun anim_shot_Sheet_15
-  - first:
-      213: 3229127984181507649
-    second: Gun anim_shot_Sheet_16
-  - first:
-      213: 2948454471590742412
-    second: Gun anim_shot_Sheet_17
-  - first:
-      213: 5979322758999236201
-    second: Gun anim_shot_Sheet_18
+      213: -6551433702536891688
+    second: Gun anim_reload_Sheet_HD_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,7 +102,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -206,155 +179,221 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_0
+      name: Gun anim_reload_Sheet_HD_0
       rect:
         serializedVersion: 2
-        x: 432
-        y: 48
-        width: 270
-        height: 267
+        x: 509
+        y: 439
+        width: 792
+        height: 822
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f02033786616b38a0800000000000000
-      internalID: -6324354158728904177
+      spriteID: 92397c008517992d0800000000000000
+      internalID: -3271459031523814615
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_2
+      name: Gun anim_reload_Sheet_HD_1
       rect:
         serializedVersion: 2
-        x: 855
-        y: 43
-        width: 236
-        height: 277
+        x: 2429
+        y: 439
+        width: 792
+        height: 822
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e70c145980c1ef250800000000000000
-      internalID: 5980248178384027774
+      spriteID: 337848d7ae46f8c60800000000000000
+      internalID: 7822582036056803123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_13
+      name: Gun anim_reload_Sheet_HD_2
       rect:
         serializedVersion: 2
-        x: 1230
-        y: 36
-        width: 245
-        height: 275
+        x: 4349
+        y: 439
+        width: 792
+        height: 822
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3861ad303f6bddda0800000000000000
-      internalID: -5918373180437031293
+      spriteID: 3a330aa02f3713ae0800000000000000
+      internalID: -1571347311578041437
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_15
+      name: Gun anim_reload_Sheet_HD_3
       rect:
         serializedVersion: 2
-        x: 158
-        y: 48
-        width: 160
-        height: 166
+        x: 6269
+        y: 439
+        width: 792
+        height: 822
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54c78ef9e65667ea0800000000000000
-      internalID: -5875397138054611899
+      spriteID: 7dd346593df2520f0800000000000000
+      internalID: -1142454344677573161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_16
+      name: Gun anim_reload_Sheet_HD_4
       rect:
         serializedVersion: 2
-        x: 1606
-        y: 32
-        width: 259
-        height: 291
+        x: 8269
+        y: 484
+        width: 722
+        height: 1167
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 146796ffaca20dc20800000000000000
-      internalID: 3229127984181507649
+      spriteID: add02180b47efebd0800000000000000
+      internalID: -2598604150525522470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_17
+      name: Gun anim_reload_Sheet_HD_5
       rect:
         serializedVersion: 2
-        x: 1974
-        y: 45
-        width: 266
-        height: 280
+        x: 10324
+        y: 484
+        width: 687
+        height: 1282
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c89049768b30be820800000000000000
-      internalID: 2948454471590742412
+      spriteID: 3b173c61ef6ee6020800000000000000
+      internalID: 2337059235629855155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_18
+      name: Gun anim_reload_Sheet_HD_6
       rect:
         serializedVersion: 2
-        x: 2464
-        y: 45
-        width: 160
-        height: 166
+        x: 12314
+        y: 334
+        width: 782
+        height: 1047
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 96ede879e52daf250800000000000000
-      internalID: 5979322758999236201
+      spriteID: 49ba8b4e2c22f1440800000000000000
+      internalID: 4908680339313437588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_reload_Sheet_HD_7
+      rect:
+        serializedVersion: 2
+        x: 14089
+        y: 289
+        width: 727
+        height: 1117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e464a3bf112a39110800000000000000
+      internalID: 1266534118334285390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_reload_Sheet_HD_8
+      rect:
+        serializedVersion: 2
+        x: 15994
+        y: 119
+        width: 717
+        height: 1337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb87de769856ed260800000000000000
+      internalID: 7124243301375244479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun anim_reload_Sheet_HD_9
+      rect:
+        serializedVersion: 2
+        x: 17719
+        y: 469
+        width: 942
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d234ce22c1a415a0800000000000000
+      internalID: -6551433702536891688
       vertices: []
       indices: 
       edges: []
@@ -363,7 +402,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 437e3d2abab3e294a8bfcc7291416c02
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -373,25 +412,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Gun anim_shot_Sheet_0: -6324354158728904177
-      Gun anim_shot_Sheet_1: -1929187692899457016
-      Gun anim_shot_Sheet_10: -1674229950897786446
-      Gun anim_shot_Sheet_11: -3069061355421970927
-      Gun anim_shot_Sheet_12: 5746322412541076337
-      Gun anim_shot_Sheet_13: -5918373180437031293
-      Gun anim_shot_Sheet_14: 6408440598318279735
-      Gun anim_shot_Sheet_15: -5875397138054611899
-      Gun anim_shot_Sheet_16: 3229127984181507649
-      Gun anim_shot_Sheet_17: 2948454471590742412
-      Gun anim_shot_Sheet_18: 5979322758999236201
-      Gun anim_shot_Sheet_2: 5980248178384027774
-      Gun anim_shot_Sheet_3: 8507215747321424229
-      Gun anim_shot_Sheet_4: -4774946368072995899
-      Gun anim_shot_Sheet_5: -3025852257205953537
-      Gun anim_shot_Sheet_6: 5864287632619963401
-      Gun anim_shot_Sheet_7: -1851714794626462101
-      Gun anim_shot_Sheet_8: -4074259665266538021
-      Gun anim_shot_Sheet_9: 5970463540184812117
+      Gun anim_reload_Sheet_HD_0: -3271459031523814615
+      Gun anim_reload_Sheet_HD_1: 7822582036056803123
+      Gun anim_reload_Sheet_HD_2: -1571347311578041437
+      Gun anim_reload_Sheet_HD_3: -1142454344677573161
+      Gun anim_reload_Sheet_HD_4: -2598604150525522470
+      Gun anim_reload_Sheet_HD_5: 2337059235629855155
+      Gun anim_reload_Sheet_HD_6: 4908680339313437588
+      Gun anim_reload_Sheet_HD_7: 1266534118334285390
+      Gun anim_reload_Sheet_HD_8: 7124243301375244479
+      Gun anim_reload_Sheet_HD_9: -6551433702536891688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

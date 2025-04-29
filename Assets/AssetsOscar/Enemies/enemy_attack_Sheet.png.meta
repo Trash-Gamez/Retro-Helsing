@@ -1,64 +1,49 @@
 fileFormatVersion: 2
-guid: 92e2b03933b2c0044b5fc955ddd3f9ba
+guid: c21847dc4947a8a4f8a35ada5f52dd3f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6324354158728904177
-    second: Gun anim_shot_Sheet_0
+      213: -1687549156017497146
+    second: enemy_attack_Sheet_0
   - first:
-      213: -1929187692899457016
-    second: Gun anim_shot_Sheet_1
+      213: 1341423614032315612
+    second: enemy_attack_Sheet_1
   - first:
-      213: 5980248178384027774
-    second: Gun anim_shot_Sheet_2
+      213: 8921432808889293557
+    second: enemy_attack_Sheet_2
   - first:
-      213: 8507215747321424229
-    second: Gun anim_shot_Sheet_3
+      213: 975607738079527921
+    second: enemy_attack_Sheet_3
   - first:
-      213: -4774946368072995899
-    second: Gun anim_shot_Sheet_4
+      213: 2231856569782004003
+    second: enemy_attack_Sheet_4
   - first:
-      213: -3025852257205953537
-    second: Gun anim_shot_Sheet_5
+      213: -5951373883360909640
+    second: enemy_attack_Sheet_5
   - first:
-      213: 5864287632619963401
-    second: Gun anim_shot_Sheet_6
+      213: 6083691264219624843
+    second: enemy_attack_Sheet_6
   - first:
-      213: -1851714794626462101
-    second: Gun anim_shot_Sheet_7
+      213: 176248934669294268
+    second: enemy_attack_Sheet_7
   - first:
-      213: -4074259665266538021
-    second: Gun anim_shot_Sheet_8
+      213: 5705075294159446671
+    second: enemy_attack_Sheet_8
   - first:
-      213: 5970463540184812117
-    second: Gun anim_shot_Sheet_9
+      213: -64826550457107710
+    second: enemy_attack_Sheet_9
   - first:
-      213: -1674229950897786446
-    second: Gun anim_shot_Sheet_10
+      213: -5283543239438515313
+    second: enemy_attack_Sheet_10
   - first:
-      213: -3069061355421970927
-    second: Gun anim_shot_Sheet_11
+      213: 1000505935910458704
+    second: enemy_attack_Sheet_11
   - first:
-      213: 5746322412541076337
-    second: Gun anim_shot_Sheet_12
+      213: -5733669908537037794
+    second: enemy_attack_Sheet_12
   - first:
-      213: -5918373180437031293
-    second: Gun anim_shot_Sheet_13
-  - first:
-      213: 6408440598318279735
-    second: Gun anim_shot_Sheet_14
-  - first:
-      213: -5875397138054611899
-    second: Gun anim_shot_Sheet_15
-  - first:
-      213: 3229127984181507649
-    second: Gun anim_shot_Sheet_16
-  - first:
-      213: 2948454471590742412
-    second: Gun anim_shot_Sheet_17
-  - first:
-      213: 5979322758999236201
-    second: Gun anim_shot_Sheet_18
+      213: -7059694287093781
+    second: enemy_attack_Sheet_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -105,7 +90,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 130
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -138,7 +123,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Win64
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -155,20 +140,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Standalone
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -181,7 +153,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -194,7 +166,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -206,155 +178,265 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_0
+      name: enemy_attack_Sheet_0
       rect:
         serializedVersion: 2
-        x: 432
-        y: 48
-        width: 270
-        height: 267
+        x: 0
+        y: 0
+        width: 164
+        height: 164
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f02033786616b38a0800000000000000
-      internalID: -6324354158728904177
+      spriteID: 6cb119ecbfe9498e0800000000000000
+      internalID: -1687549156017497146
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_2
+      name: enemy_attack_Sheet_1
       rect:
         serializedVersion: 2
-        x: 855
-        y: 43
-        width: 236
-        height: 277
+        x: 164
+        y: 0
+        width: 164
+        height: 164
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e70c145980c1ef250800000000000000
-      internalID: 5980248178384027774
+      spriteID: cd487b77ba1bd9210800000000000000
+      internalID: 1341423614032315612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_13
+      name: enemy_attack_Sheet_2
       rect:
         serializedVersion: 2
-        x: 1230
-        y: 36
-        width: 245
-        height: 275
+        x: 328
+        y: 0
+        width: 164
+        height: 164
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3861ad303f6bddda0800000000000000
-      internalID: -5918373180437031293
+      spriteID: 5fa9c553fdb4fcb70800000000000000
+      internalID: 8921432808889293557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_15
+      name: enemy_attack_Sheet_3
       rect:
         serializedVersion: 2
-        x: 158
-        y: 48
-        width: 160
-        height: 166
+        x: 492
+        y: 0
+        width: 164
+        height: 164
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 54c78ef9e65667ea0800000000000000
-      internalID: -5875397138054611899
+      spriteID: 1f34a5c911e0a8d00800000000000000
+      internalID: 975607738079527921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_16
+      name: enemy_attack_Sheet_4
       rect:
         serializedVersion: 2
-        x: 1606
-        y: 32
-        width: 259
-        height: 291
+        x: 656
+        y: 0
+        width: 164
+        height: 164
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 146796ffaca20dc20800000000000000
-      internalID: 3229127984181507649
+      spriteID: 3296a7fa9b529fe10800000000000000
+      internalID: 2231856569782004003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_17
+      name: enemy_attack_Sheet_5
       rect:
         serializedVersion: 2
-        x: 1974
-        y: 45
-        width: 266
-        height: 280
+        x: 820
+        y: 0
+        width: 164
+        height: 164
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c89049768b30be820800000000000000
-      internalID: 2948454471590742412
+      spriteID: 8b66cbc1cf8786da0800000000000000
+      internalID: -5951373883360909640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gun anim_shot_Sheet_18
+      name: enemy_attack_Sheet_6
       rect:
         serializedVersion: 2
-        x: 2464
-        y: 45
-        width: 160
-        height: 166
+        x: 984
+        y: 0
+        width: 164
+        height: 164
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 96ede879e52daf250800000000000000
-      internalID: 5979322758999236201
+      spriteID: b8535f6d8fc9d6450800000000000000
+      internalID: 6083691264219624843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_attack_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba1107e879227200800000000000000
+      internalID: 176248934669294268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_attack_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f822b35d0cf7c2f40800000000000000
+      internalID: 5705075294159446671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_attack_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b7df78890b91ff0800000000000000
+      internalID: -64826550457107710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_attack_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83c9d9ca651da6b0800000000000000
+      internalID: -5283543239438515313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_attack_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055dc9909d282ed00800000000000000
+      internalID: 1000505935910458704
       vertices: []
       indices: 
       edges: []
@@ -363,7 +445,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 437e3d2abab3e294a8bfcc7291416c02
+    spriteID: 20eda99557ec9f84ab4869913c0677e6
     internalID: 0
     vertices: []
     indices: 
@@ -373,25 +455,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Gun anim_shot_Sheet_0: -6324354158728904177
-      Gun anim_shot_Sheet_1: -1929187692899457016
-      Gun anim_shot_Sheet_10: -1674229950897786446
-      Gun anim_shot_Sheet_11: -3069061355421970927
-      Gun anim_shot_Sheet_12: 5746322412541076337
-      Gun anim_shot_Sheet_13: -5918373180437031293
-      Gun anim_shot_Sheet_14: 6408440598318279735
-      Gun anim_shot_Sheet_15: -5875397138054611899
-      Gun anim_shot_Sheet_16: 3229127984181507649
-      Gun anim_shot_Sheet_17: 2948454471590742412
-      Gun anim_shot_Sheet_18: 5979322758999236201
-      Gun anim_shot_Sheet_2: 5980248178384027774
-      Gun anim_shot_Sheet_3: 8507215747321424229
-      Gun anim_shot_Sheet_4: -4774946368072995899
-      Gun anim_shot_Sheet_5: -3025852257205953537
-      Gun anim_shot_Sheet_6: 5864287632619963401
-      Gun anim_shot_Sheet_7: -1851714794626462101
-      Gun anim_shot_Sheet_8: -4074259665266538021
-      Gun anim_shot_Sheet_9: 5970463540184812117
+      enemy_attack_Sheet_0: -1687549156017497146
+      enemy_attack_Sheet_1: 1341423614032315612
+      enemy_attack_Sheet_10: -5283543239438515313
+      enemy_attack_Sheet_11: 1000505935910458704
+      enemy_attack_Sheet_2: 8921432808889293557
+      enemy_attack_Sheet_3: 975607738079527921
+      enemy_attack_Sheet_4: 2231856569782004003
+      enemy_attack_Sheet_5: -5951373883360909640
+      enemy_attack_Sheet_6: 6083691264219624843
+      enemy_attack_Sheet_7: 176248934669294268
+      enemy_attack_Sheet_8: 5705075294159446671
+      enemy_attack_Sheet_9: -64826550457107710
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

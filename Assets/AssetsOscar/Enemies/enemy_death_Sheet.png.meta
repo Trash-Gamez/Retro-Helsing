@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: f869b17fb1944af47aadcb09b6e68ab5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8123272844553102930
+    second: enemy_death_Sheet_0
+  - first:
+      213: 2217642536951874801
+    second: enemy_death_Sheet_1
+  - first:
+      213: 2956812381421480738
+    second: enemy_death_Sheet_2
+  - first:
+      213: 1321314610911266474
+    second: enemy_death_Sheet_3
+  - first:
+      213: -8725370451857146166
+    second: enemy_death_Sheet_4
+  - first:
+      213: 1575201156725729364
+    second: enemy_death_Sheet_5
+  - first:
+      213: 3789334451249384300
+    second: enemy_death_Sheet_6
+  - first:
+      213: -670881209269213446
+    second: enemy_death_Sheet_7
+  - first:
+      213: -1532148078999149916
+    second: enemy_death_Sheet_8
+  - first:
+      213: -5773447517775448241
+    second: enemy_death_Sheet_9
+  - first:
+      213: -179724713829597117
+    second: enemy_death_Sheet_10
+  - first:
+      213: 6002023354352001977
+    second: enemy_death_Sheet_11
+  - first:
+      213: 4118396244361405074
+    second: enemy_death_Sheet_12
+  - first:
+      213: -2360634346711835424
+    second: enemy_death_Sheet_13
+  - first:
+      213: 8875242558324075520
+    second: enemy_death_Sheet_14
+  - first:
+      213: 1668128430550799226
+    second: enemy_death_Sheet_15
+  - first:
+      213: -2427456619636280230
+    second: enemy_death_Sheet_16
+  - first:
+      213: -8936710581550937949
+    second: enemy_death_Sheet_17
+  - first:
+      213: 6478549885111609734
+    second: enemy_death_Sheet_18
+  - first:
+      213: -1984202993781807480
+    second: enemy_death_Sheet_19
+  - first:
+      213: -1101535627202625985
+    second: enemy_death_Sheet_20
+  - first:
+      213: -1937246725093406975
+    second: enemy_death_Sheet_21
+  - first:
+      213: 6963202994416471211
+    second: enemy_death_Sheet_22
+  - first:
+      213: 2210327682475000995
+    second: enemy_death_Sheet_23
+  - first:
+      213: 2829890316874786770
+    second: enemy_death_Sheet_24
+  - first:
+      213: 7888316095299851099
+    second: enemy_death_Sheet_25
+  - first:
+      213: -374433419218580085
+    second: enemy_death_Sheet_26
+  - first:
+      213: -5025430975750488384
+    second: enemy_death_Sheet_27
+  - first:
+      213: 3217737922853861391
+    second: enemy_death_Sheet_28
+  - first:
+      213: -4592182074813389391
+    second: enemy_death_Sheet_29
+  - first:
+      213: 4649895910393324498
+    second: enemy_death_Sheet_30
+  - first:
+      213: 4653051094373816717
+    second: enemy_death_Sheet_31
+  - first:
+      213: -219044398198771241
+    second: enemy_death_Sheet_32
+  - first:
+      213: -8807213878036894897
+    second: enemy_death_Sheet_33
+  - first:
+      213: -1097703225926677407
+    second: enemy_death_Sheet_34
+  - first:
+      213: -6991984321106388980
+    second: enemy_death_Sheet_35
+  - first:
+      213: -5702251377922907470
+    second: enemy_death_Sheet_36
+  - first:
+      213: -6283496518279908092
+    second: enemy_death_Sheet_37
+  - first:
+      213: -2865253951967104873
+    second: enemy_death_Sheet_38
+  - first:
+      213: 6130456261890855084
+    second: enemy_death_Sheet_39
+  - first:
+      213: -1172455648812844078
+    second: enemy_death_Sheet_40
+  - first:
+      213: 1106073025883203396
+    second: enemy_death_Sheet_41
+  - first:
+      213: 1839317341801626249
+    second: enemy_death_Sheet_42
+  - first:
+      213: -6982299532007229223
+    second: enemy_death_Sheet_43
+  - first:
+      213: -6193255726439636490
+    second: enemy_death_Sheet_44
+  - first:
+      213: 6286197919412711250
+    second: enemy_death_Sheet_45
+  - first:
+      213: 6892506052955002295
+    second: enemy_death_Sheet_46
+  - first:
+      213: 8012091402964686228
+    second: enemy_death_Sheet_47
+  - first:
+      213: -5395262379870678389
+    second: enemy_death_Sheet_48
+  - first:
+      213: 836182964001877326
+    second: enemy_death_Sheet_49
+  - first:
+      213: 8344870734041024420
+    second: enemy_death_Sheet_50
+  - first:
+      213: -1293136927294559427
+    second: enemy_death_Sheet_51
+  - first:
+      213: 2958329987274321182
+    second: enemy_death_Sheet_52
+  - first:
+      213: -3473430141479744043
+    second: enemy_death_Sheet_53
+  - first:
+      213: -5600320010907135478
+    second: enemy_death_Sheet_54
+  - first:
+      213: 7950317358154144460
+    second: enemy_death_Sheet_55
+  - first:
+      213: 394211297318449939
+    second: enemy_death_Sheet_56
+  - first:
+      213: -2844815365098932075
+    second: enemy_death_Sheet_57
+  - first:
+      213: 7503380593935703448
+    second: enemy_death_Sheet_58
+  - first:
+      213: -6347949219157187091
+    second: enemy_death_Sheet_59
+  - first:
+      213: -8218926842157113043
+    second: enemy_death_Sheet_60
+  - first:
+      213: 5370009255603248315
+    second: enemy_death_Sheet_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 130
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_death_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9d5d60366544f80800000000000000
+      internalID: -8123272844553102930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_death_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f400d54326a6ce10800000000000000
+      internalID: 2217642536951874801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_death_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22baa1ee135b80920800000000000000
+      internalID: 2956812381421480738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_death_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa646e353a0465210800000000000000
+      internalID: 1321314610911266474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_death_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace7d539dc149e680800000000000000
+      internalID: -8725370451857146166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_death_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458eb643b1d3cd510800000000000000
+      internalID: 1575201156725729364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 10f1301655248204c9c4be3ac7e3b22a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enemy_death_Sheet_0: -8123272844553102930
+      enemy_death_Sheet_1: 2217642536951874801
+      enemy_death_Sheet_2: 2956812381421480738
+      enemy_death_Sheet_3: 1321314610911266474
+      enemy_death_Sheet_4: -8725370451857146166
+      enemy_death_Sheet_5: 1575201156725729364
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
